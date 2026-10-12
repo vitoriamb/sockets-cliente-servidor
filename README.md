@@ -1,5 +1,4 @@
-# Cliente/Servidor com Sockets em Python
-
+# Cliente/Servidor com Sockets
 Atividade de Sistemas Distribuídos: modelo cliente/servidor com sockets TCP.
 
 **Aluna:** Vitória Maciel Bernardo
